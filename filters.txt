@@ -1,0 +1,36 @@
+! Nov 18, 2024 https://www.youtube.com
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(2)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scope
+www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
+www.youtube.com###metadata-line
+www.youtube.com##.YtSegmentedLikeDislikeButtonViewModelSegmentedButtonsWrapper
+www.youtube.com###comments > .ytd-comments.style-scope
+www.youtube.com###owner-sub-count
+www.youtube.com###ytd-watch-info-text
+www.youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer.style-scope
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-structured-description-content-renderer.style-scope
+www.youtube.com###structured-description
+www.youtube.com###container > .yt-chip-cloud-renderer.style-scope
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+www.youtube.com###voice-search-button > .ytd-masthead.style-scope > yt-button-shape
+
+! Nov 19, 2024 https://www.youtube.com
+www.youtube.com##ytd-guide-entry-renderer:has(a[title=Shorts])
+www.youtube.com##ytd-guide-entry-renderer:has(a[title=Subscriptions])
+www.youtube.com##ytd-guide-entry-renderer:has(a[title=Help])
+www.youtube.com##ytd-guide-entry-renderer:has(a[title="Send feedback"])
+www.youtube.com##div#footer
+www.youtube.com##.ytd-compact-video-renderer.style-scope.badges
+www.youtube.com##ytd-badge-supported-renderer
+www.youtube.com##ytd-live-chat-frame
+www.youtube.com##div#teaser-carousel
+www.youtube.com##ytd-button-renderer:has(a[aria-label="Sign in"])
+www.youtube.com##div#chat-container
+www.youtube.com##.lockup.ytd-item-section-renderer
+www.youtube.com##ytd-mini-guide-entry-renderer:has(a[title=Shorts])
+www.youtube.com##ytd-mini-guide-entry-renderer:has(a[title=Subscriptions])
+www.youtube.com##ytd-rich-item-renderer:has(yt-lockup-view-model div.badge-shape-wiz__text:has-text("Mix"))
+
