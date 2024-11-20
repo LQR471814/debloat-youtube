@@ -11,6 +11,13 @@
 - Removes "mixed for you playlists"
 - Removes "music in this video" / other "structured information" in the description
 
+### Installation
+
+1. Install [ublock origin](https://ublockorigin.com/).
+2. Click the "ublock origin" extension icon and click the gear icon at the bottom right of the popup window, this should bring you to the extension settings.
+3. Go to the "My Filters" tab and paste the contents of [filters.txt](./filters.txt) into the text book, then hit "Apply Changes".
+4. Reload any youtube websites you have open to see the changes!
+
 ### Justification
 
 The main goal of these filter lists is to **remove non-substantive "bloat information" from youtube** and:
