@@ -2,6 +2,16 @@
 
 > A series of [ublock origin](https://ublockorigin.com/) filters to debloat the youtube website interface.
 
+### Usage
+
+1. Install [uBlock Origin]([url](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)), a well-reputed Firefox content blocker.
+2. Click the uBlock Origin extension (red shield icon) in the browser bar.
+3. It should pop up with a large power button, you'll want to click the settings (gears) icon at the bottom right of that pop up.
+4. That should bring you to a settings page:
+5. Click on the "My Filters" tab at the top.
+6. Copy the filter configuration (code to specify what to remove from a webpage) from this url into the text box.
+7. Click "Save" and reload any YouTube pages, you should now notice that many parts of the webpage are now gone.
+
 ### Features (a non-exhaustive list)
 
 - Removes shorts
