@@ -20,6 +20,7 @@ up.
 6. Copy the filter configuration (code to specify what to remove
 from a webpage) from [this
 url](https://raw.githubusercontent.com/LQR471814/debloat-youtube/refs/heads/main/filters.txt)
+   - ![my filters](./docs/myfilters.png)
 into the text box.
 7. Click "Save" and reload any YouTube pages, you should now
 notice that many parts of the webpage are now gone.
