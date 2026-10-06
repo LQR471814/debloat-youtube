@@ -7,7 +7,6 @@ www.youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scop
 www.youtube.com###header > .ytd-rich-grid-renderer.style-scope
 www.youtube.com###metadata-line
 www.youtube.com##.YtSegmentedLikeDislikeButtonViewModelSegmentedButtonsWrapper
-www.youtube.com###comments > .ytd-comments.style-scope
 www.youtube.com###owner-sub-count
 www.youtube.com###ytd-watch-info-text
 www.youtube.com##ytd-reel-shelf-renderer.ytd-structured-description-content-renderer.style-scope
@@ -33,6 +32,15 @@ www.youtube.com##.lockup.ytd-item-section-renderer
 www.youtube.com##ytd-mini-guide-entry-renderer:has(a[title=Shorts])
 www.youtube.com##ytd-mini-guide-entry-renderer:has(a[title=Subscriptions])
 www.youtube.com##ytd-rich-item-renderer:has(yt-lockup-view-model div.badge-shape-wiz__text:has-text("Mix"))
+
+! Jan 16, 2025 https://www.youtube.com
+www.youtube.com###comments > .ytd-comments.style-scope
+www.youtube.com##ytd-watch-next-secondary-results-renderer
+www.youtube.com##ytd-watch-flexy div#secondary:style(width: fit-content !important; min-width: 0 !important)
+www.youtube.com##div.ytp-chrome-bottom:style(width: calc(100% - 24px) !important)
+www.youtube.com##ytd-browse[page-subtype=home]
+www.youtube.com##.html5-video-container:style(width: 100% !important; height: 100% !important)
+www.youtube.com##.html5-video-player video:style(width: 100% !important; height: 100% !important; left: 0 !important; object-fit: contain !important)
 
 ! May 4, 2025 https://www.youtube.com
 www.youtube.com##segmented-like-dislike-button-view-model
