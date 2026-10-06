@@ -34,3 +34,5 @@ www.youtube.com##ytd-mini-guide-entry-renderer:has(a[title=Shorts])
 www.youtube.com##ytd-mini-guide-entry-renderer:has(a[title=Subscriptions])
 www.youtube.com##ytd-rich-item-renderer:has(yt-lockup-view-model div.badge-shape-wiz__text:has-text("Mix"))
 
+! May 4, 2025 https://www.youtube.com
+www.youtube.com##segmented-like-dislike-button-view-model
